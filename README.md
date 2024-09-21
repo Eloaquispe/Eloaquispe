@@ -1,16 +1,19 @@
-## Hi there 👋
+##oi pessoal bem-vindos 👋
 
-<!--
-**Eloaquispe/Eloaquispe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Meu nome é Eloa**
 
-Here are some ideas to get you started:
+_Atualmente estou estudando [Alura](https://www.alura.com.br)_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou sempre à procura de desafios novos e aprendidos. É possível explorar meus projetos e contribuições!
+
+- 👯 Eu tento colaborar em em projetos relacionados à arte e à cultura, promovendo a criatividade
+
+- Estou interessado em aprender francês e inglês.
+
+**📫 para entrar em contato comigo:**
+
+quispefloreseloa505@gmail.com 
+
+
+
+![](https://tenor.com/es-419/view/peace-peace-out-peace-sign-yellow-hand-peace-bro-gif-14746836)
