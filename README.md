@@ -1,4 +1,4 @@
-##oi pessoal bem-vindos 👋
+**oi pessoal bem-vindos** 👋
 
 **Meu nome é Eloa**
 
@@ -14,6 +14,4 @@ _Atualmente estou estudando [Alura](https://www.alura.com.br)_
 
 quispefloreseloa505@gmail.com 
 
-
-
-![](https://tenor.com/es-419/view/peace-peace-out-peace-sign-yellow-hand-peace-bro-gif-14746836)
+![](https://tenor.com/es-419/view/peace-out-cat-joypixels-peace-sign-peace-be-with-you-gif-17135108)
